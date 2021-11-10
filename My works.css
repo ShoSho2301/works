@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+}
+.cd{
+    width: 100%;
+    flex-wrap: wrap;
+}
+.main{
+    text-align: center;
+    border-radius: 1%;
+    width: 90%;
+    padding: 0 15px;
+    display: flex;
+    margin:  20px 40px 30px 80px;
+}    
+.card{
+    flex-wrap: wrap;
+    float: left;
+    margin:  20px 20px 20px 20px;
+    height: 200px;
+    width: 25%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 4%;
+    box-shadow:black 5px 5px 5px;
+    position: relative;
+}
+.main:hover{
+    background-color: rgb(240, 255, 215);
+}
+body{
+   background-color: rgb(236, 236, 236)
+}
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: center;
+}
+.button{
+    margin:  20px 20px 20px 20px;
+    height: 40px;
+    width: 40%;
+    background-color: rgb(240, 255, 215);
+    border-radius: 4%;
+    box-shadow:rgb(0, 0, 0) 3px 3px 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    text-align: center;
+}
+.main1{
+    text-align: center;
+    border-radius: 1%;
+    width: 90%;
+    padding: 0 15px;
+    display: flex;
+    flex-wrap: wrap;
+    margin:  40px 40px 30px 80px;
+}
+.main1:hover{
+    background-color: rgb(161, 228, 255);
+}
